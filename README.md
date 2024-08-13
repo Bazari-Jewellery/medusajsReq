@@ -1,0 +1,1 @@
+This just contains a docker compose file to spin up postgres,redis,meilisearch, etc for medusa js backend
